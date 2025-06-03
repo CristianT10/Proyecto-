@@ -3,23 +3,26 @@
 Repositorio: proyecto  
 URL del repositorio: git@github.com:CristianT10/ejemplo-proyecto.git
 
-1. Clona el repositorio y entra en él:
-   git clone git@github.com:CristianT10/ejemplo-proyecto.git
+1. Sitúate en la carpeta del proyecto (si ya la tienes clonada):
    cd ejemplo-proyecto
 
-2. Crea y activa el entorno virtual:
+2. Actualiza la rama main con los últimos cambios:
+   git checkout main
+   git pull origin main
+
+3. Crea y activa el entorno virtual:
    python -m venv .venv
    source .venv/bin/activate     # En Linux/Mac
-   .venv\Scripts\activate        # En Windows
+   .venv\Scripts\activate      # En Windows
 
-3. Instala las dependencias necesarias:
+4. Instala las dependencias necesarias:
    pip install -r requirements.txt
 
-4. Ejecuta el script:
+5. Ejecuta el script:
    python extraccion.py
 
-5. El resultado se guardará en el archivo: anuncios_unificados.csv
+6. El resultado se guardará en el archivo: anuncios_unificados.csv
 
 Notas:
-- No es necesario subir los archivos de datos generados, están ignorados en .gitignore.
 - Si necesitas repetir el proceso, puedes borrar el CSV y volver a ejecutar el script.
+- Los archivos generados (.json, CSV) están ignorados en .gitignore y no deben subirse.
