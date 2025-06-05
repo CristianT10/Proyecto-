@@ -1,5 +1,9 @@
 node_modules/
 .env
+.venv
+bloque_*.json
+anuncios_unificados.csv
+datos.json
 
 
 
