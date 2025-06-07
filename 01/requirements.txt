@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+pandas
+sqlalchemy     # o el conector que uses (psycopg2, pymysql, etc.)
+fastapi
+uvicorn
+request
+
+
+
+
