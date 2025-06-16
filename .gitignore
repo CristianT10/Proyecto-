@@ -10,6 +10,7 @@ venv/
 limpieza_completa.csv
 *.csv
 *.json
+.ipynb_checkpoints/
 
 
 
