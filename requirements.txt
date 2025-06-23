@@ -6,9 +6,6 @@ matplotlib
 seaborn
 dash
 plotly
-import csv
-import mysql.connector
-from mysql.connector import Error
-from datetime import datetime
 notebook
 ipykernel
+scikit-learn
