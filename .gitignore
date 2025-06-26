@@ -8,12 +8,13 @@ datos.ipynb
 datos_limpios.csv
 venv/
 limpieza_completa.csv
-Coches_Segunda_Mano.ipynb
-Coches_Segunda_Mano2.ipynb
-README.node_modules
-extraccion.py
-instrucciones_extraccion.txt
-limpieza_final.ipynb
-server.js
+*.csv
+*.json
+.ipynb_checkpoints/
+encoders/*.pkl
+modelos/
+Limpieza/encoders/
+
+
 
 
