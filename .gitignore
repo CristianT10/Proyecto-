@@ -14,7 +14,7 @@ limpieza_completa.csv
 encoders/*.pkl
 modelos/
 Limpieza/encoders/
-
+metricas/
 
 
 
