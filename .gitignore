@@ -12,7 +12,8 @@ limpieza_completa.csv
 *.json
 .ipynb_checkpoints/
 encoders/*.pkl
-
+modelos/
+Limpieza/encoders/
 
 
 

@@ -9,3 +9,4 @@ plotly
 notebook
 ipykernel
 scikit-learn
+tensorflow
