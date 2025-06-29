@@ -4,6 +4,12 @@ node_modules/
 bloque_*.json
 anuncios_unificados.csv
 datos.json
+<<<<<<< Irina
+limpieza_completa.csv
+server.js
+instrucciones_extraccion.txt
+Coches_Segunda_Mano2.ipynb
+=======
 datos.ipynb
 datos_limpios.csv
 venv/
@@ -14,7 +20,8 @@ limpieza_completa.csv
 encoders/*.pkl
 modelos/
 Limpieza/encoders/
+metricas/
 
 
-
+>>>>>>> main
 
