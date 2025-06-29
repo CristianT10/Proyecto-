@@ -96,14 +96,14 @@ with st.container():
         st.markdown("""
         <div class="team-card">
             <center>
-                <img src="https://github.com/Anirih/anirih" class="profile-img">
+                <img src="https://avatars.githubusercontent.com/u/34394008?v=4" class="profile-img">
                 <h3>Irina Gorria</h3>
                 <p><i>Data Scientist</i></p>
                 <div class="social-links">
                     <a href="linkedin.com/in/irinagorria" target="_blank">
                         <i class="fab fa-linkedin"></i> LinkedIn
                     </a>
-                    <a href="https://github.com/Anirih/anirih" target="_blank">
+                    <a href="https://github.com/Anirih" target="_blank">
                         <i class="fab fa-github"></i> GitHub
                     </a>
                 </div>

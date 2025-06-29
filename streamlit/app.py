@@ -69,9 +69,10 @@ st.markdown(
         Esta plataforma profesional te ofrece <b>herramientas avanzadas</b> para dominar el mercado de coches usados en España. Analiza miles de vehículos con criterios expertos y toma decisiones basadas en datos reales.<br><br>
         <b>VENTAJAS EXCLUSIVAS:</b>
         <ul>
-            <li><b>Motor de búsqueda inteligente:</b> Filtros profesionales por especificaciones técnicas, historial de precios y valoraciones expertas</li>
-            <li><b>Análisis comparativo:</b> Benchmarking detallado entre modelos, marcas y años</li>
-            <li><b>Indicadores de mercado:</b> Evolución de precios, ratios de depreciación y oportunidades destacadas</li>
+            <li><b>Comparador:</b> Herramienta profesional pero de uso basico, para comparar caracteristicas de un vehiculo</li>
+            <li><b>Análisis comparativo:</b> Graficos detallados entre modelos, marcas y años</li>
+            <li><b>Indicadores de mercado:</b> Evolución de precios, ratios de depreciación </li>
+            <li><b>Predictor:</b> Algoritmo que identifica el precio de tu vehiculo</li>
         </ul>
         <b style="color:#4fc3f7;">Utiliza el menú lateral para acceder a las herramientas profesionales</b>
     </div>

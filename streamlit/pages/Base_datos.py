@@ -42,7 +42,7 @@ def main():
     st.title("🗄️ Diagrama Base de Datos")
 
     # Ruta al archivo HTML
-    html_path = Path("C:\\Users\\abner\\proyecto\\Proyecto-\\streamlit\\diagramabd.html")
+    html_path = Path("C:\\Users\\abner\\proyecto\\Proyecto-\\streamlit\\diagrama_db2.html")
     
     # Contenedor principal minimalista
     with st.container():
